@@ -2,3 +2,6 @@ https://docs.github.com/en/actions/using-github-hosted-runners/about-github-host
 run: |
     echo "First output"
     echo "Second output"
+
+
+https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows
