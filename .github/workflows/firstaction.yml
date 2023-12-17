@@ -1,0 +1,10 @@
+name: First workfolw
+on: workflow_dispatch #manually start workflow
+jobs: 
+  firstjob:
+    runs-on: windows-latest
+    steps:
+      - name: Print greeding
+        run: echo "Hi how are you"
+      - name: print goodby
+        run: echo "goodby"
