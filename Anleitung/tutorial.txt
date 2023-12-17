@@ -1,1 +1,4 @@
 https://docs.github.com/en/actions/using-github-hosted-runners/about-github-hosted-runners/about-github-hosted-runners
+run: |
+    echo "First output"
+    echo "Second output"
